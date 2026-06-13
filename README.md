@@ -1,7 +1,30 @@
-## Hi there, I'm Allan
-h1
-uyftg
+## Hi there, I'm Allan 
+# 👋 Hi, I'm Allan
 
+💻 Frontend Developer (Learning HTML, CSS, JS)  
+📊 Interested in Trading (ICT / Smart Money Concepts)  
+🚀 Building projects and improving daily  
+
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript (learning)
+- Git & GitHub
+
+---
+
+## 📌 Current Goals
+- Build my portfolio website
+- Learn backend development
+- Become consistent in coding
+
+---
+
+## 📫 Contact
+- Email: youremail@gmail.com
+- Location: Nairobi, Kenya
 
 
 
