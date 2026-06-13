@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Allan
 
 💻 Fullstack Software Developer
- Interested in coding  
+👨‍💻 Interested in coding  
 🚀 Building projects and improving daily  
 
 
