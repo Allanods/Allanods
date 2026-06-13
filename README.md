@@ -1,30 +1,18 @@
 ## Hi there, I'm Allan 
 # 👋 Hi, I'm Allan
 
-💻 Frontend Developer (Learning HTML, CSS, JS)  
-📊 Interested in Trading (ICT / Smart Money Concepts)  
+💻 Fullstack Software Developer
+📊 Interested in coding  
 🚀 Building projects and improving daily  
 
----
 
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript (learning)
-- Git & GitHub
 
----
 
-## 📌 Current Goals
-- Build my portfolio website
-- Learn backend development
-- Become consistent in coding
 
----
 
 ## 📫 Contact
-- Email: youremail@gmail.com
-- Location: Nairobi, Kenya
+- Email: kabiraallan3@gmail.com
+- Location:Ruaka, Kenya
 
 
 
